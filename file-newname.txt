@@ -1,2 +1,4 @@
 My first bit of text
 And now some more text...
+
+All the while some new works goes on in master
